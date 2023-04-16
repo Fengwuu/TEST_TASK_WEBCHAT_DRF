@@ -53,9 +53,9 @@ python manage.py runserver
 ```
 
 ## Additional Information
-
-Superuser data: username/password  - qwert/qwert
-To see API information - follow route http://127.0.0.1:8000/swagger/ .
+<br>
+Superuser data: username/password  - qwert/qwert <br>
+To see API information - follow route http://127.0.0.1:8000/swagger/ . <br>
 Follow http://127.0.0.1:8000/api/v1/token/ - for JWT token. (This info also in Swagger doc)
 
 ## Support
