@@ -40,6 +40,7 @@ git clone https://github.com/Fengwuu/TEST_TASK_WEBCHAT_DRF.git
 
 ```bash
 python -m venv venv
+venv/Scripts/activate for WIN, and source env/bin/activate for Linux/Unix
 ```
 ```bash
 pip install req.txt
